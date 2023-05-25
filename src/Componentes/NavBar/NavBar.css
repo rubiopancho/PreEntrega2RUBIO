@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+li {
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+.titulo {
+    display: block;
+}
+
+.titulo1 {
+    color: rgb(221, 191, 146);
+    height: 50px;
+}
